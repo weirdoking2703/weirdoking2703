@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @weirdoking2703
-- 👀 I’m interested in create small programs in python language
-- 🌱 I’m currently learning, ofcourse python and its variants
+- 👀 I’m interested in developing projects in Python as well as Flutter(Dart)
+- 🌱 I’m currently learning, ofcourse Python/Flutter and its variants
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I still love toys
+- ⚡ Fun fact: I still love BeyBlade
 
 <!---
 weirdoking2703/weirdoking2703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
